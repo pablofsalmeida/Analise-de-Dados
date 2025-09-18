@@ -13,7 +13,7 @@
 <li><h4>Vendas</h4></li>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgzNGJiNzktZjk3Ny00MzAyLTk2MWQtNzAyODRhMDc1YjYwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">op</a>
 <li><h4>RH</h4></li>
-  <a iframe title="Dashboard RH" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true">Relatório Pesquisa e Satisfação dos colaboradores</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Relatório Pesquisa e Satisfação dos colaboradores</a>
 </ul>
 </p>
 
