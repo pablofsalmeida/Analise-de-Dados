@@ -11,7 +11,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMzdhZGFhMWItMWRmNS00NzZmLWE0NWUtNmQzZjU2YTQ0YTQ5IiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Gestão de Faturamento e Logística</a><br>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZGQ2M2E5N2MtNWI4Yi00YjI4LTkxMjAtNDdkMTU0NjNjNjIwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Control Tower - Comércio Exterior</a><br>
 <li><h4>Vendas</h4></li>
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgzNGJiNzktZjk3Ny00MzAyLTk2MWQtNzAyODRhMDc1YjYwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">AgroFruits</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgzNGJiNzktZjk3Ny00MzAyLTk2MWQtNzAyODRhMDc1YjYwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">AgroFruits</a><br>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNTAwZmU0NzEtNjg0OS00MTZjLThhMWItOWUxMmRlNmExNmEwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Acompanhamento de Vendas</a>
 <li><h4>RH</h4></li>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Relatório Pesquisa e Satisfação dos colaboradores</a>
