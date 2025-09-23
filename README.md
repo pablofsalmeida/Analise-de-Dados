@@ -5,8 +5,8 @@
 </p>
 
 ## Projetos desenvolvidos 🚀  
-<h3>Dashboards criados até o momento: </h3>
-<img src="dashboard.png" min-width="150px" max-width="300" width="300px" align="right" alt="Computador">
+<h3>Dashboards</h3>
+<img src="dashboard.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <ul>
 <li><h4>Financeiro</h4></li>  
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWU3ZmRiNjMtODkzYy00YjUzLTlmMDctM2Y5ZjBmNTAxYmE0IiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Fluxo de Caixa</a><br>
@@ -16,6 +16,7 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMGFkMDg2ZWQtNTA0OS00NjUzLWI1MTEtNzc5ZjI2Y2Y4ZDg5IiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Logistica 2</a><br>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMzdhZGFhMWItMWRmNS00NzZmLWE0NWUtNmQzZjU2YTQ0YTQ5IiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Gestão de Faturamento e Logística</a><br>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZGQ2M2E5N2MtNWI4Yi00YjI4LTkxMjAtNDdkMTU0NjNjNjIwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Control Tower - Comércio Exterior</a><br>
+  <img src="data.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador"><br>
 <li><h4>Vendas</h4></li>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgzNGJiNzktZjk3Ny00MzAyLTk2MWQtNzAyODRhMDc1YjYwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">AgroFruits</a><br>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNTAwZmU0NzEtNjg0OS00MTZjLThhMWItOWUxMmRlNmExNmEwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Acompanhamento de Vendas</a>
