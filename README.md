@@ -6,7 +6,7 @@
 
 ## Projetos desenvolvidos 🚀  
 <h3>Dashboards criados até o momento: </h3>
-<img src="dashboard.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
+<img src="dashboard.png" min-width="150px" max-width="300" width="300px" align="right" alt="Computador">
 <ul>
 <li><h4>Financeiro</h4></li>  
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWU3ZmRiNjMtODkzYy00YjUzLTlmMDctM2Y5ZjBmNTAxYmE0IiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Fluxo de Caixa</a><br>
