@@ -1,6 +1,8 @@
 <h1>Análise-de-Dados</h1>
+<img src="analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <p align="left">
 <h3>Dashboards criados até o momento: </h3>
+<img src="dashboard.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <ul>
 <li><h4>Financeiro</h4></li>  
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWU3ZmRiNjMtODkzYy00YjUzLTlmMDctM2Y5ZjBmNTAxYmE0IiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Fluxo de Caixa</a><br>
@@ -17,5 +19,5 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Relatório Pesquisa e Satisfação dos colaboradores</a>
 </ul>
 </p>
-
-
+## Autor  
+[Pablo Almeida](https://github.com/pablofsalmeida)
