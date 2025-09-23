@@ -1,13 +1,10 @@
 # Análise de Dados
 <img src="analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <p align="left">
-É uma linguagem de programação de alto nível, interpretada e de propósito geral, reconhecida pela clareza e simplicidade de sua sintaxe. Foi projetada para ser fácil de aprender e utilizar, mas ao mesmo tempo poderosa e flexível. Com uma vasta coleção de bibliotecas e frameworks, o Python é aplicado em diversas áreas, como desenvolvimento de software, análise de dados, inteligência artificial, automação de processos, ciência de dados e aplicações web. Sua grande comunidade de usuários e desenvolvedores contribui constantemente para sua evolução, tornando-o uma das linguagens mais populares e relevantes no cenário tecnológico atual.
+É uma área voltada para a coleta, organização, interpretação e visualização de informações, com o objetivo de gerar insights e apoiar a tomada de decisões. Por meio de técnicas estatísticas, ferramentas computacionais e métodos de exploração de dados, é possível identificar padrões, tendências e correlações relevantes. Essa prática é aplicada em diversos setores, como negócios, saúde, finanças, marketing e tecnologia, sendo fundamental no contexto da transformação digital. Com o apoio de softwares especializados e linguagens como Python e R, a análise de dados se consolidou como um campo estratégico, impulsionando inovação, eficiência e competitividade no cenário atual.
 </p>
 
 ## Projetos desenvolvidos 🚀  
-<img src="python-computer.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
-<br>
-
 <h3>Dashboards criados até o momento: </h3>
 <img src="dashboard.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <ul>
