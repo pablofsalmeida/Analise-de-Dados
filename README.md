@@ -1,6 +1,13 @@
-<h1>Análise-de-Dados</h1>
+# Análise de Dados
 <img src="analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <p align="left">
+É uma linguagem de programação de alto nível, interpretada e de propósito geral, reconhecida pela clareza e simplicidade de sua sintaxe. Foi projetada para ser fácil de aprender e utilizar, mas ao mesmo tempo poderosa e flexível. Com uma vasta coleção de bibliotecas e frameworks, o Python é aplicado em diversas áreas, como desenvolvimento de software, análise de dados, inteligência artificial, automação de processos, ciência de dados e aplicações web. Sua grande comunidade de usuários e desenvolvedores contribui constantemente para sua evolução, tornando-o uma das linguagens mais populares e relevantes no cenário tecnológico atual.
+</p>
+
+## Projetos desenvolvidos 🚀  
+<img src="python-computer.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
+<br>
+
 <h3>Dashboards criados até o momento: </h3>
 <img src="dashboard.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 <ul>
@@ -17,7 +24,8 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNTAwZmU0NzEtNjg0OS00MTZjLThhMWItOWUxMmRlNmExNmEwIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Acompanhamento de Vendas</a>
 <li><h4>RH</h4></li>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Relatório Pesquisa e Satisfação dos colaboradores</a>
-</ul>
-</p>
+
+<br>
+
 ## Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida)
