@@ -37,14 +37,14 @@ Cada dashboard foi desenvolvido com base em datasets públicos ou educacionais, 
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Relatório Pesquisa e Satisfação dos colaboradores</a>
 
 <br>
-## 📈 **Insights Gerais**
-- Todos os dashboards foram estruturados com **modelagem de dados limpa e atualizável**.  
-- Aplicação de **princípios de storytelling com dados** para facilitar a interpretação.  
-- **Foco em KPIs e visualizações de impacto** para decisões executivas.
+## 📈 **Insights Gerais** <br>
+- Todos os dashboards foram estruturados com **modelagem de dados limpa e atualizável**.   <br>
+- Aplicação de **princípios de storytelling com dados** para facilitar a interpretação.  <br>
+- **Foco em KPIs e visualizações de impacto** para decisões executivas. <br>
 
 ## Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida)
-Pablo Fellipe de Souza Almeida
-🎓 Bacharel em Ciência da Computação | Pós-graduando em Ciência de Dados e Big Data Analytics
-📍 Santos Dumont – MG
-💬 Interesse em BI, SQL, Python, Estatística e Ciência de Dados Aplicada
+Pablo Fellipe de Souza Almeida <br>
+🎓 Bacharel em Ciência da Computação | Pós-graduando em Ciência de Dados e Big Data Analytics <br>
+📍 Santos Dumont – MG <br>
+💬 Interesse em BI, SQL, Python, Estatística e Ciência de Dados Aplicada 
