@@ -43,7 +43,7 @@ Cada dashboard foi desenvolvido com base em datasets públicos ou educacionais, 
 - Aplicação de **princípios de storytelling com dados** para facilitar a interpretação.  <br>
 - **Foco em KPIs e visualizações de impacto** para decisões executivas. <br>
 
-<br>
+
 ## Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida) <br>
 Pablo Fellipe de Souza Almeida <br>
