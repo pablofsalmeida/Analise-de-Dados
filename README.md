@@ -36,11 +36,13 @@ Cada dashboard foi desenvolvido com base em datasets públicos ou educacionais, 
 <li><h4>RH</h4></li>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOGY1YmYyNDItODU2YS00ZDFlLTk5ZjgtZDI0YjA3MmU5ODUxIiwidCI6Ijc5MmQzODgwLTIwZjItNDU5OS04MmExLTVjZjYzOWZkMTZkOSJ9&embedImagePlaceholder=true">Relatório Pesquisa e Satisfação dos colaboradores</a>
 
-<br>
+</ul>
+
 ## 📈 **Insights Gerais** <br>
 - Todos os dashboards foram estruturados com **modelagem de dados limpa e atualizável**.   <br>
 - Aplicação de **princípios de storytelling com dados** para facilitar a interpretação.  <br>
 - **Foco em KPIs e visualizações de impacto** para decisões executivas. <br>
+
 <br>
 ## Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida) <br>
