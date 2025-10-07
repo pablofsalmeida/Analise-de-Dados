@@ -44,3 +44,7 @@ Cada dashboard foi desenvolvido com base em datasets públicos ou educacionais, 
 
 ## Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida)
+Pablo Fellipe de Souza Almeida
+🎓 Bacharel em Ciência da Computação | Pós-graduando em Ciência de Dados e Big Data Analytics
+📍 Santos Dumont – MG
+💬 Interesse em BI, SQL, Python, Estatística e Ciência de Dados Aplicada
