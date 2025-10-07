@@ -41,9 +41,9 @@ Cada dashboard foi desenvolvido com base em datasets públicos ou educacionais, 
 - Todos os dashboards foram estruturados com **modelagem de dados limpa e atualizável**.   <br>
 - Aplicação de **princípios de storytelling com dados** para facilitar a interpretação.  <br>
 - **Foco em KPIs e visualizações de impacto** para decisões executivas. <br>
-
+<br>
 ## Autor  
-[Pablo Almeida](https://github.com/pablofsalmeida)
+[Pablo Almeida](https://github.com/pablofsalmeida) <br>
 Pablo Fellipe de Souza Almeida <br>
 🎓 Bacharel em Ciência da Computação | Pós-graduando em Ciência de Dados e Big Data Analytics <br>
 📍 Santos Dumont – MG <br>
